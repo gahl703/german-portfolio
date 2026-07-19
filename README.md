@@ -1,23 +1,25 @@
-# german-portfolio
-This is my Version 1.0 portfolio website, which showcases my skills, projects, and contact information. It serves as a representation of my web development abilities, including HTML and CSS.
-
 # German Hernandez Portfolio
 
-My personal portfolio showcasing projects in:
+Welcome to my personal portfolio website.
 
-- Data Analytics
+The website showcases projects in:
+
 - Business Analysis
+- Data Analytics
 - SQL
 - Python
 - Tableau
-- Information Systems
+- Web Development
+
+## Featured Projects
+
+- IT Help Desk Ticket Analysis
+- Relational Database & SQL Analytics
+- Puppy Palace System Analysis
+- Workforce Wellness Dashboard
 
 ## Technologies
 
 - HTML
 - CSS
 - JavaScript
-
-## Live Website
-
-placeholder
